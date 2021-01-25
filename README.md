@@ -1,2 +1,2 @@
-# AshleyVoglewede.github.io
+# avwede.github.io
 A personal website for my resume and projects. 
