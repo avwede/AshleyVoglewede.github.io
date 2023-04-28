@@ -173,7 +173,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 24px;
   transition: all 0.4s;
   outline: none !important;
-  background-color: #149ddd;
+  background-color: #281E1C;
   color: #fff;
   width: 40px;
   height: 40px;
@@ -218,6 +218,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #hero h1 {
   margin: 0 0 10px 0;
+  margin-left: 25px;
   font-size: 85px;
   font-weight: 700;
   line-height: 100px;
@@ -225,6 +226,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #hero p {
   color: #d4d4d4;
+  margin-left: 25px;
   margin-bottom: 50px;
   font-size: 30px;
   font-family: "Poppins", sans-serif;
@@ -460,7 +462,7 @@ section {
   margin: 0 auto 35px auto;
   list-style: none;
   text-align: center;
-  background: #e5dada;
+  background: #DBCCC9;
   border-radius: 50px;
   padding: 2px 15px;
 }
